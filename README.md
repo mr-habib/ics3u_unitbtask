@@ -29,6 +29,8 @@ pretty_print(all_grades)
 main() 
 ```
 
+# NOTE: For the pretty print. The rows only have two columns: the name and the average. Make the first column (the student's name) have a "width" of 25 characters and the second column (the student's grade) have a width of 5 characters.
+
 You will also need to fill out the main_test.py file and write unit tests for the following functions:
 ```python
 get_name(s_grades)
