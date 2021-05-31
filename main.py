@@ -1,4 +1,4 @@
-# Lastname. Firstname
+# Lastname, Firstname
 # mm/dd/yyyy
 # Descriptive title
 
